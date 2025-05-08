@@ -1,1 +1,1 @@
-# Our codes will be made available upon paper publication.
+# The source code for the E-TransConvNet architecture will be made available soon.
