@@ -35,7 +35,7 @@ All experiments were conducted using an NVIDIA GeForce RTX 2080 Ti GPU
 | 2023 | DAE-Former| DAE-Former: Dual Attention-Guided Efficient Transformer for Medical Image Segmentation [(Paper)](https://link.springer.com/chapter/10.1007/978-3-031-46005-0_8)      | [Code](https://github.com/mindflow-institue/DAEFormer)|
 | 2023 | META-Unet | META-Unet: Multi-Scale Efficient Transformer Attention Unet for Fast and High-Accuracy Polyp Segmentation [(Paper)](https://ieeexplore.ieee.org/document/10179485)    | [Code](https://github.com/szuzzb/META-Unet)|
 | 2023 | MAXFormer | MAXFormer: Enhanced transformer for medical image segmentation with multi-attention and multi-scale features fusion [(Paper)](https://doi.org/10.1016/j.knosys.2023.110987)  | [Code](https://github.com/zhiwei-liang/MAXFormer)|
-| 2023 | MedSAM    | Segment anything in medical images [(Paper)](https://www.nature.com/articles/s41467-024-44824-z)      | [Code](https://github.com/bowang-lab/MedSAM)|
+| 2024 | MedSAM    | Segment anything in medical images [(Paper)](https://www.nature.com/articles/s41467-024-44824-z)      | [Code](https://github.com/bowang-lab/MedSAM)|
 
 
 # Medical Image Ultrasound and CT Datasets
