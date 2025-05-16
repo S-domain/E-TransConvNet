@@ -14,7 +14,9 @@ Medical image segmentation in ultrasound and CT images plays a crucial role in t
 
 
 # Requirements
-Pytorch >= 2.0, TensorFlow >= 2.9
+Python>= 3.7, Pytorch >= 2.0, TensorFlow >= 2.9
+
+# Experimental Setting
 
 # CNN and Transformer-based Models for Medical Image Segmentation
 
