@@ -17,6 +17,7 @@ Medical image segmentation in ultrasound and CT images plays a crucial role in t
 Python>= 3.7, Pytorch >= 2.0, TensorFlow >= 2.9
 
 # Experimental Setting
+All experiments were conducted using an NVIDIA GeForce RTX 2080 Ti GPU
 
 # CNN and Transformer-based Models for Medical Image Segmentation
 
