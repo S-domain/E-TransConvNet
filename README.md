@@ -44,7 +44,7 @@ All experiments were conducted using an NVIDIA GeForce RTX 2080 Ti GPU
 | :---:   | :---:     | :---:                                                          | :---:|
 | 2020  | BUSI   | Breast | [Link](https://www.kaggle.com/datasets/sabahesaraki/breast-ultrasound-images-dataset) |  
 | 2022  | Kidney US  | Kidney| [Link](http://rsingla.ca/kidneyUS/) |
-| 2021 | TMUS  | Transverse musculoskelet| [Link](https://doi.org/10.17632/3jykz7wz8d.1) |
+| 2021 | TMUS  | Transverse musculoskeletal| [Link](https://doi.org/10.17632/3jykz7wz8d.1) |
 | 2021  | TGUS | Thyroid gland | [Link](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) |
 | 2010  | 3D-IRCADb-1  | Liver | [Link](https://www.kaggle.com/datasets/sarahelqersh/3dircadb1) |
 | 2021  | CHAOS | Liver | [Link](https://chaos.grand-challenge.org/) |
