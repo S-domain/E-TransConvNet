@@ -24,6 +24,17 @@ Pytorch >= 2.0, TensorFlow >= 2.0
 | :---:   | :---:     | :---:                                                                                                                                                     | :---:|
 | 2023  | DSEU-net    | DSEU-net: A novel deep supervision SEU-net for medical ultrasound image segmentation [(Paper)](https://doi.org/10.1016/j.eswa.2023.119939) | [Code](https://github.com/CGPxy/DSEU-net)|
 | 2023 | NU-net    | Rethinking the unpretentious U-net for medical ultrasound image segmentation [(Paper)](https://doi.org/10.1016/j.patcog.2023.109728)      | [Code](https://github.com/CGPzy/NU-net)|
+| 2023 | Chen et. al. | Asymmetric U-shaped network with hybrid attention mechanism for kidney ultrasound images segmentation [(Paper)](https://doi.org/10.1016/j.eswa.2022.118847) | [Code](https://github.com/CGPxy/Asymmetric-U-net-for-ultrasound-segmentation)|
+| 2023 | RRCNet    | RRCNet: Refinement residual convolutional network for breast ultrasound images segmentation [(Paper)](https://doi.org/10.1016/j.engappai.2022.105601) | [Code](https://github.com/CGPxy/RRCNet)|
+| 2024 | MSDANet   | MSDANet: A multi-scale dilation attention network for medical image segmentation [(Paper)](https://doi.org/10.1016/j.bspc.2023.105889)    | [Code](https://github.com/1999luan/MSDANet)|
+| 2021 | TransUNet | TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [(Paper)](https://arxiv.org/abs/2102.04306)                   | [Code](https://github.com/Beckschen/TransUNet)|
+| 2021 | MedT      | Medical Transformer: Gated Axial-Attention for Medical Image Segmentation   [(Paper)](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_4)      | [Code](https://github.com/jeya-maria-jose/Medical-Transformer)|
+| 2023 | BPAT-UNet | BPAT-UNet: Boundary preserving assembled transformer UNet for ultrasound thyroid nodule segmentation [(Paper)](https://doi.org/10.1016/j.cmpb.2023.107614) | [Code](https://github.com/ccjcv/BPAT-UNet)|
+| 2023 | H2Former  | H2Former: An Efficient Hierarchical Hybrid Transformer for Medical Image Segmentation [(Paper)](https://ieeexplore.ieee.org/document/10093768)      | [Code](https://github.com/NKUhealong/H2Former)|
+| 2023 | DAE-Former| DAE-Former: Dual Attention-Guided Efficient Transformer for Medical Image Segmentation [(Paper)](https://link.springer.com/chapter/10.1007/978-3-031-46005-0_8)      | [Code](https://github.com/mindflow-institue/DAEFormer)|
+| 2023 | META-Unet | META-Unet: Multi-Scale Efficient Transformer Attention Unet for Fast and High-Accuracy Polyp Segmentation [(Paper)](https://ieeexplore.ieee.org/document/10179485)    | [Code](https://github.com/szuzzb/META-Unet)|
+| 2023 | MAXFormer | MAXFormer: Enhanced transformer for medical image segmentation with multi-attention and multi-scale features fusion [(Paper)](https://doi.org/10.1016/j.knosys.2023.110987)  | [Code](https://github.com/zhiwei-liang/MAXFormer)|
+| 2023 | MedSAM    | Segment anything in medical images [(Paper)](https://www.nature.com/articles/s41467-024-44824-z)      | [Code](https://github.com/bowang-lab/MedSAM)|
 
 
 # Medical Image Ultrasound and CT Datasets
