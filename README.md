@@ -7,7 +7,7 @@ Medical image segmentation in ultrasound and CT images plays a crucial role in t
 ![ARC](C:/Users/PC/Downloads/ARC.png)
 
 # Enhanced Transformer Block
-![ETB](C:/Users/PC/Downloads/ETB.png)
+![ETB](https://github.com/S-domain/E-TransConvNet/blob/5d2bd2927605268021a5028e8500f4347a156bec/ETB.png)
 
 # License
 This codes are released under the MIT License (refer to the LICENSE file for details).
