@@ -13,7 +13,7 @@ Medical image segmentation in ultrasound and CT images plays a crucial role in t
 ![ETB](https://github.com/S-domain/E-TransConvNet/blob/eb811931c50e8a87f2db7b1297a432959df84a94/Figures/Kidney_US2.png)
 
 # License
-This codes are released under the MIT License (refer to the LICENSE file for details).
+These codes are released under the MIT License (refer to the LICENSE file for details).
 
 # Requirements
 Pytorch >= 2.0, TensorFlow >= 2.0
