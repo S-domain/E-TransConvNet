@@ -7,7 +7,10 @@ Medical image segmentation in ultrasound and CT images plays a crucial role in t
 ![ARC](https://github.com/S-domain/E-TransConvNet/blob/695d5b634324f9a2eed9f22eb35a26191d786258/Figures/ARC.png)
 
 # Enhanced Transformer Block
-![ETB](https://github.com/S-domain/E-TransConvNet/blob/5d2bd2927605268021a5028e8500f4347a156bec/ETB.png)
+![ETB](https://github.com/S-domain/E-TransConvNet/blob/cdfb8a8e9b073026624cc10f338cc705f1d128e5/Figures/ETB.png)
+
+# Segmentation Results on the Kidney US Dataset
+![ETB](https://github.com/S-domain/E-TransConvNet/blob/cdfb8a8e9b073026624cc10f338cc705f1d128e5/Figures/ETB.png)
 
 # License
 This codes are released under the MIT License (refer to the LICENSE file for details).
@@ -23,7 +26,7 @@ Pytorch >= 2.0, TensorFlow >= 2.0
 | 2023 | NU-net    | Rethinking the unpretentious U-net for medical ultrasound image segmentation [(Paper)](https://doi.org/10.1016/j.patcog.2023.109728)      | [Code](https://github.com/CGPzy/NU-net)|
 
 
-# Histopathological Image Datasets
+# Medical Image Ultrasound and CT Datasets
 
 | Year    | Dataset     | Tissue  Type                           | Link|
 | :---:   | :---:     | :---:                                                          | :---:|
