@@ -4,7 +4,7 @@ Medical image segmentation in ultrasound and CT images plays a crucial role in t
 
 #  E-TransConvNet Architecture
 
-![ARC](C:/Users/PC/Downloads/ARC.png)
+![ARC](https://github.com/S-domain/E-TransConvNet/blob/695d5b634324f9a2eed9f22eb35a26191d786258/Figures/ARC.png)
 
 # Enhanced Transformer Block
 ![ETB](https://github.com/S-domain/E-TransConvNet/blob/5d2bd2927605268021a5028e8500f4347a156bec/ETB.png)
