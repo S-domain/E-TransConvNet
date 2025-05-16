@@ -10,7 +10,7 @@ Medical image segmentation in ultrasound and CT images plays a crucial role in t
 ![ETB](https://github.com/S-domain/E-TransConvNet/blob/cdfb8a8e9b073026624cc10f338cc705f1d128e5/Figures/ETB.png)
 
 # Segmentation Results on the Kidney US Dataset
-![ETB](https://github.com/S-domain/E-TransConvNet/blob/cdfb8a8e9b073026624cc10f338cc705f1d128e5/Figures/ETB.png)
+![ETB](https://github.com/S-domain/E-TransConvNet/blob/eb811931c50e8a87f2db7b1297a432959df84a94/Figures/Kidney_US2.png)
 
 # License
 This codes are released under the MIT License (refer to the LICENSE file for details).
