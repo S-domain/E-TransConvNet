@@ -38,7 +38,7 @@ All experiments were conducted using an NVIDIA GeForce RTX 2080 Ti GPU
 | 2024 | MedSAM    | Segment anything in medical images [(Paper)](https://www.nature.com/articles/s41467-024-44824-z)      | [Code](https://github.com/bowang-lab/MedSAM)|
 
 
-# Medical Image Ultrasound and CT Datasets
+# Medical Image Segmentation Ultrasound and CT Datasets
 
 | Year    | Dataset     | Tissue  Type                           | Link|
 | :---:   | :---:     | :---:                                                          | :---:|
